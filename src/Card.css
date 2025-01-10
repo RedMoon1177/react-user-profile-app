@@ -1,0 +1,17 @@
+.card {
+    background-color: #09192F;
+    width: 400px;
+    height: 100px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px grey;
+    border-radius: 5px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.delele-btn:hover {
+    cursor: pointer;
+}
